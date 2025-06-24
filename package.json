@@ -1,6 +1,6 @@
 {
   "name": "payme",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A Telegram bot for payment processing",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "keywords": ["telegram bot", "payment processing", "telegram payment bot", "telegram payment processing", "telegram payment processing bot", "telegram payment processing bot", "telegram payment processing bot", "telegram payment processing bot", "telegram payment processing bot", "telegram payment processing bot"],
   "author": "Samir Thakuri",
-  "license": "ISC",
+  "license": "MIT",
   "type": "commonjs",
   "dependencies": {
     "dotenv": "^16.5.0",
