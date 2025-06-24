@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
+  "keywords": ["telegram bot", "payment processing", "telegram payment bot", "telegram payment processing", "telegram payment processing bot", "telegram payment processing bot", "telegram payment processing bot", "telegram payment processing bot", "telegram payment processing bot", "telegram payment processing bot"],
   "author": "Samir Thakuri",
   "license": "ISC",
   "type": "commonjs",
